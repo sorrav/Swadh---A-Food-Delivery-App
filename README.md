@@ -25,7 +25,7 @@ Additionally, featuring a order status tracking system , allowing users to monit
 - Allow users to place orders.
 - Allow admin users to manage orders.
 
-##Some_Outputs
+## Some_Outputs-
  
 ![1722576618822](https://github.com/user-attachments/assets/3b0f10b7-dcca-4afd-acaa-61d1cc842406)
 ![1722576618532](https://github.com/user-attachments/assets/a1fd233a-20e5-413c-a26a-5b3c553f6570)
