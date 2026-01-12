@@ -31,5 +31,3 @@ app.get("/",(req,res)=>{
 app.listen(port,()=>{
     console.log(`Server Started on http://localhost:${port}`)
 })
-
-//mongodb+srv://sajidrehan:<password>@cluster0.gbmkpac.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
