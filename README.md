@@ -1,6 +1,6 @@
 # food_delivery
 
-A full-stack food delivery website/app 🍊🍔🍹
+A full-stack food delivery website/app
 
 - featuring a user authentication system, allowing customers to create accounts and log in. A shopping cart feature , enabling users to add food items and place orders. The Stripe payment gateway integrated for secure online payments.
 
